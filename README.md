@@ -17,8 +17,8 @@
     docker-compose up --detach
 ```
 
-visite linktree via: http://localhost:8000
-![demo](https://github.com/bohuang-work/nginx/blob/main/src/images/demo.png)
+- visite linktree via: http://localhost:8000
+  ![demo](https://github.com/bohuang-work/nginx/blob/main/src/images/demo.png)
 
 ## stop
 
