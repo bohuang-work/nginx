@@ -1,7 +1,6 @@
 # Nginx
 
-- Bo Huang's Linktree.
-- Host locally by nginx with local DNS.
+- A Linktree hosted locally by nginx server.
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,6 +18,7 @@
 ```
 
 visite linktree via: http://localhost:8000
+![demo](https://github.com/bohuang-work/nginx/blob/main/src/images/demo.png)
 
 ## stop
 
